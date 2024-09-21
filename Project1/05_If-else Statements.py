@@ -7,8 +7,8 @@ If-else Statements
 
 age = int(input("Enter your age: "))
 if age > 18:
-    print("you are elder")
+    print("you name is vote id")
 else:
-    print("your are child")
+    print("your name is not voter id")
 
 
