@@ -3,7 +3,7 @@
 Tuple एक अर्डर गरिएको, अपरिवर्तनीय (immutable) डाटा प्रकार हो जसमा 
 विभिन्न प्रकारका डाटा समावेश गर्न सकिन्छ। Tuples () (कोष्ठक) भित्र लेखिन्छन्।
 '''
-fruits=("mango", "banana","grapes")
+fruits=("mango", "banana","grapes","orange")
 print(fruits)
 
 # Tuple अपरिवर्तनीय छ, त्यसैले तपाईं आइटमहरू परिवर्तन गर्न सक्नुहुन्न।
