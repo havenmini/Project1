@@ -11,3 +11,8 @@ only add
  1. git add (file name)
  2. git commit -m "all file added"
  git push 
+
+ only modify
+ 1. git add (file name)
+ 2. git commit -m "modify file"
+ git push 
