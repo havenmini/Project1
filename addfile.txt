@@ -5,3 +5,9 @@
 5. git commit -m "all file added" 
 6. git remote add origin https://github.com/havenmini/Project3.git
 7. git push -u origin master
+
+
+only add
+ 1. git add (file name)
+ 2. git commit -m "all file added"
+ git push 
